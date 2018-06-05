@@ -161,6 +161,8 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="graf.txt" />
+    <Text Include="graf2.txt" />
+    <Text Include="graf3.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
