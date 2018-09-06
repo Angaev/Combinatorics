@@ -26,12 +26,12 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Boruvkas_Algorithm.cpp">
+    <ClCompile Include="Task1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="graf.txt">
+    <Text Include="matrix.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
