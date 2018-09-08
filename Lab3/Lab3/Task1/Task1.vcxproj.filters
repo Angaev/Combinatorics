@@ -34,5 +34,8 @@
     <Text Include="matrix.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="matrix2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
